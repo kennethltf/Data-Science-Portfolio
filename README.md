@@ -1,6 +1,4 @@
 # My Data Science Projects 
-Personal Projects (All things Data Science!)
-
 ## Data Associate Programme
 ### Data Wrangling, Exploratory, & Model-building
 - [Predicting default rate in Micro-loans](https://github.com/kennethltf/Data-Science-Portfolio/blob/master/DAP-v2.ipynb)
