@@ -1,4 +1,5 @@
 # My Data Science Projects 
+Personal Projects (All things Data Science!)
 
 ## Data Associate Programme
 ### Data Wrangling, Exploratory, & Model-building
